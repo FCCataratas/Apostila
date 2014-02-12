@@ -1,0 +1,40 @@
+
+  Profundidade de campo ( colocar fotos do manual do fcci )
+
+  A profundidade de campo define quanto os objeto “próximos“ do foco principal da
+  foto estarão focados também.
+
+  Ela é chamada de DOF ( vem de “depth of field” ou profundidade de campo em
+  inglês).
+
+  Um DOF maior significa que mais coisas atrás e à frente do seu foco principal
+  também ficarão definidas.
+
+  Um DOF menor significa que tudo que estiver atrás ou à frente do seu foco
+  principal ficará com menor definição.
+
+  Foto de exemplo
+
+  xxxxxxxxx
+
+  Como podemos controlar a profundidade de campo.
+
+  Dois fatores principais influenciam na profundidade de campo:
+
+  Abertura
+
+  Aberturas maiores (como f/1.8) diminuem a profundidade de campo. Aberturas
+  menores
+
+  (como f/22) aumentam a profundidade de campo.
+
+  Proximidade com o objeto
+
+  Quanto mais próximo você estiver do objeto fotografado, menor será o DOF. Usando
+  a mesma abertura, uma foto tirada mais de perto terá um DOF menor do que uma
+  foto tirada mais afastada.
+
+  Foto de exemplo
+
+  xxxxxxxxxxx
+

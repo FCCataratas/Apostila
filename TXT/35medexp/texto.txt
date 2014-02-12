@@ -1,0 +1,42 @@
+
+  Modos de medição
+
+  Sua câmera usa o fotômetro para medir uma cena de várias formas diferentes. Os
+  modos de medição permitem que você escolha o jeito mais adequando e assim
+  trabalhe o fotômetro de forma avançada.
+
+  Compreender como funcionam, nos ajuda a saber como a máquina "vê" os tons numa
+  composição e como podemos alterá-los para obter exposições corretas.
+  Normalmente, as máquinas fotográficas reflex oferecem quatro modos de medição de
+  luz, são eles o Matricial, Parcial, Ponderado ao Centro e Pontual.
+
+  [-- Image: figuras1 --]
+
+  Modo de medição pontual
+
+  Faz a leitura junto ao ponto de focagem que selecionamos e é usada uma área de 5%
+  em torno desse ponto para medição da luz, este tipo de medição é muito eficaz
+  quando queremos dar predominância a um determinado motivo da cena.
+
+  Modo de medição parcial
+
+  É basicamente igual ao modo de medição pontual, apenas com a diferença do
+  tamanho da área lida, que neste caso ronda os 15% em torno do ponto de focagem,
+  é um tipo de medição útil para, por exemplo, fotos com grupos grandes de
+  pessoas, em que estas estão aglomeradas na parte central da cena.
+
+  Modo de medição ponderada ao centro
+
+  É igual à anterior mas neste caso é dada prioridade à luz que incide no centro,
+  o fotômetro vai utilizar entre 60 a 80% da informação de luz que incide
+  diretamente na área central para calcular a exposição, é ideal para retratos ou
+  planos fechados de objetos.
+
+  Modo de medição matricial
+
+  Faz a leitura da generalidade da cena, é o mais utilizado e o mais fiável na
+  maioria das situações, no entanto é de referir que em algumas cenas, nas quais
+  possam existir grandes áreas de sombra ou luz intensa este modo de medição pode
+  falhar levando a máquina fotográfica a sub-exposta ou sobre-exposta a
+  fotografia.
+

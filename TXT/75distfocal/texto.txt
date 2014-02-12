@@ -1,0 +1,18 @@
+
+  Distancia focal
+
+  A distância focal é, junto com a abertura do diafragma, uma das mais importantes
+  características de uma objetiva. É a partir dela que o usuário define, por
+  exemplo, a maior ou menor aproximação de uma imagem, ou ainda escolhe o campo de
+  visão que deseja trabalhar.
+
+  A distância focal de uma objetiva é determinada a partir dos pontos nodais até
+  dos focais, ou seja, é a distância, em milímetros, entre o ponto de convergência
+  da luz até o ponto onde a imagem focalizada será projetada.
+
+  Todas as objetivas recebem classificações como grande angular, normal e tele
+  objetiva, e quase todas elas podem ser do tipo macro (que permite uma
+  focalização de objetos mais próximos) ou não.
+
+  [-- Image: figuras1 --]
+

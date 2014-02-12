@@ -1,0 +1,81 @@
+
+  Filtros
+
+  Como funcionam os filtros
+
+  Dado que os filmes não reagem às cores da mesma forma que o olho humano, os
+  filtros servem, sobretudo para ajustar a cor da luz de uma cena, de modo que os
+  tons reproduzidos no filme correspondam aos que nossos olhos percebem. Um filtro
+  colorido deixa passar a luz de sua própria cor e impede, em diferentes
+  proporções, a passagem de luz de outras cores. A intensidade da cor do filtro
+  e sua posição no espectro determinam o quanto passa e o quanto é absorvido. De
+  modo geral, cores muito próximas passam e cores complementares ficam bloqueadas.
+  Assim, um filtro amarelo absorve azul, deixando passar vermelho e verde. É claro
+  que o filme só registra a luz que atravessa o filtro.
+
+  Quase todos os filtros precisam ser usados com abertura maior ou velocidade menor
+  do que seria necessário sem eles, pois reduzem a quantidade de luz que entra na
+  câmara. A alteração requerida – ultimamente indicada diretamente em pontos de
+  diafragma – é tradicionalmente especificada como fator de filtro, um número pelo
+  qual se deve multiplicar a exposição. Um filtro de fator 2, por exemplo, indica
+  que você precisa dobrar a quantidade de luz – o que equivale à alteração de um
+  ponto; um fator 4 corresponde a quatro vezes mais luz – uma diferença de dois
+  pontos. Qualquer leitura de fotômetro feita através de um filtro colorido pode
+  resultar numa indicação errada de exposição. Assim, é preferível medir a
+  exposição antes de colocar o filtro e corrigi-la de acordo com o fator. O
+  tamanho dos filtros comuns de vidro, rosqueáveis, é indicado por um número que
+  representa o diâmetro em milímetros. Certifique-se, ao comprar um filtro, de que
+  ele tem o mesmo diâmetro de sua objetiva. Você também pode comprar adaptadores,
+  que permitem utilizar filtros do mesmo tamanho, em objetivas de tamanho
+  diferente. Para uso esporádico, pode-se adotar o filtro de gelatina, que é muito
+  mais barato e se adapta num suporte sobre a objetiva.
+
+  Os Filtros UV e Skylight
+
+  Os dois filtros mais conhecidos e usados são o ultravioleta, também chamado UV,
+  que é incolor, e o skylight (luz do céu), levemente âmbar. Com qualquer um deles
+  não é necessário alterar a exposição. Ambos se destinam, em princípio, ao uso com
+  filmes coloridos. Mas, como têm influência mínima nos filmes preto-e-branco,
+  muitos fotógrafos deixam um deles todo o tempo na objetiva, protegendo assim a
+  superfície vulnerável do elemento frontal (trocar u filtro arranhado é bem mais
+  econômico que trocar uma objetiva).
+
+  O filtro ultravioleta absorve a radiação ultravioleta – correspondente a
+  comprimentos de onda mais curtos que os do extremo azul-violeta do espectro
+  visível. Essa radiação acompanha a luz do sol, embora seja invisível para
+  nossos olhos, o filme a registra do mesmo modo que a parte visível. É fácil
+  perceber seu efeito, ao fundo de cenas distantes, como uma névoa azulada – bem
+  mais densa que a névoa normal – criada pela dispersão da radiação ultravioleta
+  nas partículas em suspensão na atmosfera.
+
+  Quando fotografada através de um filtro ultravioleta, essa radiação é bloqueada e
+  a fotografia fica com aspecto mais natural. Embora seja crença comum, o filtro
+  ultravioleta não aumenta a penetração na névoa visível. O filtro skylight também
+  reduz os efeitos da radiação ultravioleta. Além disso, sua ligeira coloração
+  rosada diminui o tom azulado da luz em dias nublados ou em sombra aberta. Ao
+  contrário da ultravioleta, essa coloração azulada é visível, apresentando-se
+  como um reflexo em objetos de cor clara. Ao olhar uma cena, raramente percebemos
+  esse reflexo, mas as fotos coloridas o acentuam. Nos retratos especialmente, ele
+  pode tornar o tom da pele um pouco pálido. O filtro skylight não afeta
+  perceptivelmente as outras cores
+
+  O Filtro Polarizador
+
+  O filtro polarizador é um complemento muito versátil, trabalhando-se em preto-e-
+  branco ou em cores. Ele têm múltiplas aplicações: pode reduzir reflexos,
+  escurecer um céu azul, penetrar a névoa atmosférica e tornar as cores mais
+  ricas. luz refletida por superfícies não metálicas, como vidro ou água, fica
+  polarizada – isto é, tem um único plano de vibração. O filtro polarizador, que
+  pode girar em sua montagem, é uma tela de cristais arrumados em fileiras
+  paralelas. Ao ser girado, ele impede a passagem da luz com aquele plano de
+  vibração. É possível assim escurecer o brilho na água ou eliminar reflexos num
+  vidro, se a câmara estiver num ângulo adequado. Esse filtro também bloqueia a
+  luz polarizada refletida pelas minúsculas partículas em suspensão na atmosfera,
+  produzindo o efeito de escurecer o céu ou penetrar a névoa. A polarização da luz
+  é a fonte da névoa e de grande parte da luminosidade do céu, por isso sua
+  neutralização resulta em céu mais escuro e névoa mais tênue. Muitas cores –
+  desde as de folhagens até os tons de pele – ficam mais vivas com o uso desse
+  filtro, devido à eliminação de reflexos que as tornam mais claras. Quase sempre
+  o fator de um filtro polarizador é 2,5 o que significa que você deve aumentar a
+  exposição em ponto e um terço.
+

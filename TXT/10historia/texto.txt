@@ -1,0 +1,196 @@
+
+  História
+
+  A fotografia surgiu na primeira metade do século XIX, fruto da conjunção da
+  câmara escura e da descoberta de materiais fotosensíveis. A técnica ou
+  experimento da câmara escura, da qual deriva a palavra câmera, já era conhecida
+  desde o século V a.C.. Esta técnica consiste em projetar uma cena externa dentro
+  de uma câmara fechada (que pode ser desde uma pequena caixa até um quarto grande)
+  através de um pequeno orifício. A imagem externa pode assim ser observada de modo
+  invertido dentro da câmara escura.
+
+  [imagem 00]
+
+  Câmara escura
+
+  [link 01]
+
+  No século XVI, vários artistas usavam versões modificadas da câmara escura para
+  desenhar. Com a ajuda de um espelho, a imagem no interior da câmara era
+  projetada em uma placa de vidro, na qual era colocada uma folha de papel
+  semi-transparente. O artista desenhava então em cima da folha de papel,
+  reproduzindo o objeto ou cena projetada.
+
+  [imagem  01]
+
+  Câmara escura usada para desenhar
+
+  [link 02]
+
+  No entanto, foi somente na década de 1820, com a descoberta de que certos
+  materiais eram sensíveis à luz, que a fotografia deu seus primeiros passos.
+  Atribui-se a invenção da fotografia ao francês Joseph Nicéphore Nièpce. Em 1825,
+  Nièpce expôs uma placa de peltre coberta com bitume da Judéia e realizou a
+  primeira fotografia da história.
+
+  [-- Image: 2 --]
+
+  Point de vue du Gras, primeira fotografia da história (Joseph Nièpce, 1825)
+
+  http://en.wikipedia.org/wiki/File:View_from_the_Window_at_Le_Gras,_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg
+
+  Alguns anos após Nièpce, o pintor francês Hercules Florence, radicado no Brasil,
+  realizou algumas experiências e realizou a primeira fotocópia da história.
+  Entretanto, como nunca publicou seus experimentos e morava em um local isolado,
+  Florence nunca foi reconhecido como um dos inventores da fotografia.
+
+  [-- Image: 3 --]
+
+  Primeira fotocópia da história (Hercule Florence, 1839)
+
+  http://en.wikipedia.org/wiki/File:Hercules-florence-photocopy.jpg
+
+  Em 1837, o francês Louis Daguerre inventou o processo fotográfico conhecido como
+  Daguerreótipo. Além de permitir uma redução dos tempos de exposição de várias
+  horas para dezenas de minutos, esta técnica produzia imagens que não se apagavam
+  facilmente, como era o caso das fotografias feitas anteriormente. Em 1839, o
+  governo francês comprou a patente de Daguerre e tornou-a de domínio público,
+  permitindo a qualquer pessoa usar este processo de fotografia. Em troca,
+  Daguerre passou a receber do governo uma pensão até o fim de sua vida. O
+  daguerreótipo tornou-se assim o primeiro processo fotográfico usado
+  comercialmente.
+
+  Daguerre realizou, em 1838, a primeira fotografia da história em que aparecem
+  pessoas: um homem em pé e um engraxate ao seu lado lustrando seus sapatos. Isto
+  só foi possível porque estas pessoas ficaram praticamente na mesma posição
+  durante os vários minutos de exposição.
+
+  [-- Image: 4 --]
+
+  Boulevard du Temple (Daguerre, 1838)
+
+  http://en.wikipedia.org/wiki/File:Boulevard_du_Temple_by_Daguerre.jpg
+
+  Fotografia colorida
+
+  A primeira fotografia colorida foi realizada em 1861 pelo físico escocês James
+  Clerk Maxwell e seu assistente Thomas Sutton. Porém esta foto era, na verdade,
+  composta por 3 fotografias monocromáticas, cada uma correspondente a uma cor
+  (vermelho, verde e azul). Para reproduzir a imagem em cores, era necessário
+  projetar as 3 fotos através de 3 filtros com as cores correspondentes.
+
+  [-- Image: 5 --]
+
+  Tartan ribbon (James Maxwell, 1861)
+
+  http://en.wikipedia.org/wiki/File:Tartan_Ribbon.jpg
+
+  O primeiro processo fotográfico colorido viável foi o Autochrome, desenvolvido em
+  1903 pelos irmãos Lumière. O Autochrome utilizava uma placa de vidro com uma
+  camada de grãos microscópicos de amido de batata. Os grãos eram coloridos com as
+  cores vermelho, verde e azul.
+
+  [-- Image: 6 --]
+
+  Autochrome do Taj Mahal (Helen Messinger Murdoch, 1921)
+
+  http://en.wikipedia.org/wiki/File:Taj_Mahal_1921.JPG
+
+  Filme fotográfico
+
+  A fotografia sofreu uma verdadeira revolução com o desenvolvimento do filme
+  fotográfico em 1885 por George Eastman. Até então, os processos fotográficos,
+  como o daguerreótipo e o Autochrome, empregavam placas de vidro cobertas com
+  substâncias fotosensíveis. A manipulação, exposição e revelação destes materiais
+  eram complicadas e requeriam bastante conhecimento e cuidado. Isto mudou em 1885,
+  quando a Kodak, fundada por Eastman, lançou o primeiro filme em rolo flexível.
+
+  Além de inventar o primeiro filme em rolo, a Kodak também lançou a primeira
+  câmera fotográfica para este tipo de filme. A câmera já era comercializada
+  carregada com um filme para 100 fotos. Depois de tirar todas as fotos, o cliente
+  levava a câmera até uma loja da Kodak, que revelava as fotos e carregava a câmera
+  com um novo filme. Não à toa, o slogan da empresa era “Você aperta o botão, nós
+  fazemos o resto”.
+
+  [-- Image: 7 --]
+
+  Propaganda da Kodak de 1889
+
+  http://en.wikipedia.org/wiki/File:You_press_the_button,_we_do_the_rest_(Kodak).jpg
+
+  Uma das câmeras que ajudaria a popularizar a fotografia foi a Kodak Brownie.
+  Lançada em 1900, teve várias versões até seu último modelo em 1966. Um dos
+  modelos de maior sucesso foi a Brownie 127, que vendeu milhões de unidades entre
+  1952 e 1967.
+
+  [-- Image: 8 --]
+
+  Kodak Brownie 127
+
+  http://www.geh.org/fm/brownie/mE13001081.jpg
+
+  Invenção do filme de 35 mm
+
+  Fotografia digital
+
+  Os primeiros experimentos com fotografia digital ocorreram na década de 70.
+  Curiosamente, a empresa que desenvolveu o primeiro sensor digital foi a Kodak,
+  que viria a perder o domínio do mercado fotográfico para outras empresas com a
+  revolução digital. No entanto, o sensor desenvolvido nesta ocasião tinha apenas
+  fins experimentais, e não comerciais.
+
+  A primeira câmera digital comercial surgiu em 1990. A Dycam Model 1 (ou Logitech
+  Fotoman) gerava imagens em preto e branco com uma resolução de 320 x 240.
+
+  [-- Image: 9 --]
+
+  Logitech Fotoman, a primeira câmera digital
+
+  http://cdn-static.cnet.co.uk/i/c/blg/cat/digitalcameras/dycam1.jpg
+
+  Em 1995 foi lançada a primeira câmera digital com display de LC. A Casio QV-10
+  possuía um sensor de 0,25 MP e um LCD de 1,8”.
+
+  [-- Image: 10 --]
+
+  Casio QV-10, a primeira câmera digital com display de LCD
+
+  http://cdn.lingualift.com/blog/wp-content/files/2009/12/qv-10-nox-6401.jpg
+
+  Em 1999, a Nikon lançou a D1, a primeira SLR (single lens reflex) digital da
+  história. A câmera tinha um sensor de 2,7 MP e custava cerca de US$ 6.000.
+
+  [-- Image: 11 --]
+
+  Nikon D1, a primeira SLR digital da história
+
+  http://en.wikipedia.org/wiki/File:Nikon_D1_8373.jpg
+
+  A Canon, por sua vez, entraria na briga com a Nikon dois anos mais tarde,
+  lançando a EOS-1D, sua primeira DSLR.
+
+  Em 2001 surgiu o primeiro celular com câmera - o J-Phone da Sharp. Lançado apenas
+  no Japão, a câmera do J-Phone tinha uma resolução de 0,1 MP e um display de 256
+  cores.
+
+  [-- Image: 12 --]
+
+  J-Phone, o primeiro celular com câmera
+
+  http://en.wikipedia.org/wiki/File:Sharp_J-SH04_CP%2B_2011.jpg
+
+  Em 2004 foi lançada a Epson R-D1, a primeira câmera digital sem espelho. Este
+  tipo de câmera buscava unir as vantagens das câmeras compactas e das câmeras
+  reflex, como menor tamanho e opção de troca de lente (ver seção Tipos de
+  câmeras). Os maiores fabricantes de câmeras logo lançaram suas linhas de
+  câmeras sem espelho, como Panasonic (sistema Micro Four Thirds, em 2008),
+  Samsung (sistema NX, 2010), Sony (sistema E-mount, 2010), Nikon (sistema Nikon
+  1, 2011) e Canon (sistema EF-M, lançado em 2012).
+
+  Se a invenção do filme em rolo já foi um marco na história da fotografia, o
+  surgimento da fotografia digital iria revolucionar ainda mais o mercado
+  fotográfico. Associadas à Internet e aos telefones celulares, as câmeras
+  digitais tornaram-se onipresentes, permitindo a qualquer um … Câmeras digitais
+  com 16 MP, gravação de vídeo, reconhecimento facial, LCDs de 3” com função touch
+  screen, e celulares com câmeras de 8 MP são hoje comuns.
+

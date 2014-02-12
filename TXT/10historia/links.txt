@@ -1,0 +1,13 @@
+00  http://en.wikipedia.org/wiki/File:Camera_obscura2.jpg
+01  http://en.wikipedia.org/wiki/File:Camera_Obscura_box18thCentury.jpg
+02  http://en.wikipedia.org/wiki/File:View_from_the_Window_at_Le_Gras,_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg
+03  http://en.wikipedia.org/wiki/File:Hercules-florence-photocopy.jpg
+04  http://en.wikipedia.org/wiki/File:Boulevard_du_Temple_by_Daguerre.jpg
+05  http://en.wikipedia.org/wiki/File:Tartan_Ribbon.jpg
+06  http://en.wikipedia.org/wiki/File:Taj_Mahal_1921.JPG
+07  http://en.wikipedia.org/wiki/File:You_press_the_button,_we_do_the_rest_(Kodak).jpg
+08  http://www.geh.org/fm/brownie/mE13001081.jpg
+09  http://cdn-static.cnet.co.uk/i/c/blg/cat/digitalcameras/dycam1.jpg
+10  http://cdn.lingualift.com/blog/wp-content/files/2009/12/qv-10-nox-6401.jpg
+11  http://en.wikipedia.org/wiki/File:Nikon_D1_8373.jpg
+12  http://en.wikipedia.org/wiki/File:Sharp_J-SH04_CP%2B_2011.jpg
