@@ -1,0 +1,62 @@
+
+  Exposição
+
+  Exposição é a forma como controlamos a luz que forma uma fotografia.
+
+  Conseguimos ver tudo no mundo porque tudo reflete luz. E é graças à esse
+  princípio que a fotografia existe.
+
+  Toda vez que vamos fotografar uma certa quantidade de luz, de acordo com o que
+  tem lá fora, passa pela lente e chega no sensor ou filme. Cada pedacinho de luz
+  contém um pouco de informação: é a luz refletida dos objetos que está indo até o
+  nosso olho e, também, até a nossa câmera.
+
+  [-- Image: figuras1 --]
+
+  Para nossa câmera criar as imagens estáticas que chamamos de “fotografia” uma
+  certa quantidade de luz deve passar pelas lentes por um tempinho para que
+  possamos reproduzir um momento.
+
+  A exposição é baseada em três fatores
+
+  Abertura do diafragma
+
+  Velocidade do obturador
+
+  ISO
+
+  [-- Image: figuras2 --]
+
+  Esses três fatores serão explicados mais adiante. São eles que controlam a luz
+  que será
+
+  transformada em imagem.
+
+  Como expor corretamente
+
+  A câmera possui um mecanismo feito para ajudar a chegar a exposição correta que é
+  o fotômetro. Ao olhar para o visor da sua câmera, você verá uma pequena régua
+  parecida com está abaixo.
+
+  [-- Image: figuras3 --]
+
+  Os traços abaixo das réguas mostram a exposição atual da sua imagem. Se ele
+  estiver bem no meio é que a cena está bem exposta.
+
+  Neste caso pode bater a foto pois a quantidade exata de luz vai entrar para que
+  criar uma imagem bem exposta.
+
+  Sub-exposição
+
+  Uma foto está com sub-exposição quando uma quantidade insuficiente de luz entrou
+  na câmera pelas lentes. Quando isso acontece vários pontos da imagem ficam
+  pretos: sem informação nenhuma de cor ou luminosidade.
+
+  Sobre-exposição
+
+  Uma foto está com sobre-exposição quando muita luz entrou na câmera. Quando isso
+  acontece vários pontos da imagem ficam “estourados”: brancos e sem informação
+  nenhuma de cor ou luminosidade.
+
+  [-- Image: figuras4 --]
+

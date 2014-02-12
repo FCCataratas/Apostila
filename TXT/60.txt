@@ -1,0 +1,28 @@
+
+  A abertura do diafragma
+
+  A primeira coisa que temos que aprender é como controlar a quantidade de luz que
+  entra em nossa câmera. Todos quando começam a fotografar tem muita dificuldade
+  em compreender como fazer isso.
+
+  [-- Image: figuras2 --]
+
+  Vamos explicar estas dúvidas agora:
+
+  A determinação da abertura do diafragma é feita por meio de uma nomenclatura
+  própria, denominada ESCALA DE NÚMEROS F/.
+
+  Os números F/ correspondem a uma série de círculos decrescentes (imagem acima).
+
+  Quanto menor for o número F(F/1.4), maior a abertura emaior a quantidade que luz
+  que ele permite passar. (Menor será a profundidade de campo)
+
+  Quanto maior o número F(F/16), menor e a abertura e menor a quantidade de luz que
+  passará pelo diafragma. (Maior será a profundidade de campo)
+
+  A Abertura do Diafragma também influencia na profundidade de campo, que
+  corresponde a se ter um fundo da fotografia focado ou não. Mais isso
+  aprenderemos mais para frente em nosso Guia.
+
+  [-- Image: figuras1 --]
+

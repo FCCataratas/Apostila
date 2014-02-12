@@ -1,0 +1,28 @@
+
+  Balanço de branco (White balance)
+
+  “Ajustando o balanço de branco adequamos cor da foto a cor da realidade,
+  dependendo da luz disponível”
+
+  O nosso cérebro tem a capacidade de conseguir compensar as características da luz
+  ambiente de forma a vermos corretamente as cores.
+
+  Por exemplo, quando entramos na nossa sala iluminada com uma lâmpada
+  incandescente (luz amarelada) e olhamos para a parede que sabemos que é branca,
+  o nosso cérebro automaticamente faz a compensação das cores de forma a vermos a
+  parede branca.
+
+  Sem este ajuste veríamos a parede num tom mais amarelado devido à propriedade
+  quente da luz proveniente da lâmpada incandescente.
+
+  Por ser um fenômeno que nos passa despercebido, não lhe damos muita importância.
+
+  Infelizmente as nossas câmaras não conseguem fazer esta compensação de uma forma
+  tão precisa como nós. Embora tenham a opção de calcular o equilíbrio dos brancos
+  automaticamente, muitas vezes verificamos que essa compensação não está correta.
+
+  Nas imagens abaixo podemos ver como uma leitura incorreta pode influenciar
+  drasticamente uma fotografia.
+
+  [-- Image: figura12 --]
+

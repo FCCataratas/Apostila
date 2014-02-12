@@ -1,0 +1,53 @@
+
+  ISO
+
+  A sensibilidade do sensor da câmera é medida em “ISO”. Quanto maior o valor ISO,
+  o sensor fica mais sensível à luz (capta mais luz). Qnaotm menor o valor do ISO,
+  menos sensível (capta menso luz).
+
+  O ISO é, nas câmaras digitais, o equivalente ao ASA nos rolos das câmaras
+  analógicas.
+
+  É uma medida que expressa a sensibilidade que o sensor tem à luz.
+
+  Ao contrário das câmaras analógicas, nas digitais não é preciso mudar o filme
+  para ter sensibilidades diferentes - basta mudar o ISO nas configurações.
+
+  Como podes ver em baixo a sequência de valores do ISO é bastante mais simples que
+  a da abertura ou da velocidade do obturador.
+
+  [-- Image: figuras1 --]
+
+  Quanto maior o valor, maior a sensibilidade e o seu resultado prático também é
+  bastante simples: Sempre que o valor duplica, a quantidade de luz captada pelo
+  sensor também duplica (a foto fica mais clara).
+
+  Em que situações devo alterar o ISO.
+
+  Imagine que vai tirar uma fotografia numa situação com pouca luz. Sem a
+  possibilidade de alterar o ISO apenas terias 3 soluções (cada uma com as suas
+  desvantagens) para permitir a entrada de mais luz:
+
+  Aumentar a abertura da lente (diminui a profundidade de campo e só pode ser
+  aberta até ao valor máximo permitido pela lente)
+
+  Diminuir a velocidade do obturador (com baixas velocidades os objetos ficam
+  "tremidos")
+
+  Usar um flash (a imagem fica menos natural e em alguns locais não é permitido)
+
+  Se não pudermos usar nenhuma das soluções acima, a solução é aumentar o ISO,
+  permitindo ao sensor gravar mais luz no mesmo espaço de tempo.
+
+  Em termos práticos, para duplicar a quantidade de luz captada numa foto sem
+  alterar a combinação velocidade/abertura, basta duplicar o valor do ISO.
+
+  Então porque não usar sempre o ISO alto.
+
+  Como em quase tudo na vida, também o ISO alto tem um lado negativo - o ruído. Ao
+  aumentarmos a sensibilidade do sensor à luz, também estamos a amplificar o ruído
+  eléctrico. A foto seguinte foi tirada com um ISO muito alto e nota-se
+  perfeitamente a presença de ruído.
+
+  [-- Image: figuras2 --]
+
